@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08a52c82d4200296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "второй тест на оригинальном компьютере.md",
+                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "второй тест на оригинальном компьютере.md",
+                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "второй тест на оригинальном компьютере.md"
+                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md"
               }
             }
           }
@@ -159,9 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd29c1ad674e28e2",
+  "active": "08a52c82d4200296",
   "lastOpenFiles": [
-    "readme.md",
-    "второй тест на оригинальном компьютере.md"
+    "второй тест на оригинальном компьютере.md",
+    "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
+    "readme.md"
   ]
 }
