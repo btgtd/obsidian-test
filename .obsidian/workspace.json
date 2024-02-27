@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e112db87fa2c03",
+        "id": "c1f10bf0bd06661f",
         "type": "tabs",
         "children": [
           {
-            "id": "7bd483dc186b8628",
+            "id": "d1225816f483a385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f58bba09ed76c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bd483dc186b8628",
+  "active": "d1225816f483a385",
   "lastOpenFiles": [
+    "алгебра/2024_02_13.md",
+    "conflict-files-obsidian-git.md",
+    "информатика/информатика.md",
+    "информатика",
+    "алгебра/линейная алгебра 13 февраля первое занятие.docx",
+    "алгебра",
     "Untitled.md",
     "readme.md",
-    "conflict-files-obsidian-git.md",
     "создам страницу с первого компьютера.md",
     "попытка со второго компьютера.md",
     "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
