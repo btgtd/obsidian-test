@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "57e2f3da26fd4804",
+        "id": "7131c9c3e3960817",
         "type": "tabs",
         "children": [
           {
-            "id": "785abfbf0ed5def1",
+            "id": "a576b1cb2b96a4f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "попытка со второго компьютера.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "08a52c82d4200296",
+            "id": "adf3e06d9f699684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc7c73e94666b677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "создам страницу с первого компьютера.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "создам страницу с первого компьютера.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "создам страницу с первого компьютера.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "создам страницу с первого компьютера.md"
+                "file": "readme.md"
               }
             }
           }
@@ -171,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc7c73e94666b677",
+  "active": "adf3e06d9f699684",
   "lastOpenFiles": [
-    "попытка со второго компьютера.md",
     "создам страницу с первого компьютера.md",
+    "попытка со второго компьютера.md",
     "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
     "readme.md",
-    "второй тест на оригинальном компьютере.md",
-    "conflict-files-obsidian-git.md"
+    "conflict-files-obsidian-git.md",
+    "второй тест на оригинальном компьютере.md"
   ]
 }
