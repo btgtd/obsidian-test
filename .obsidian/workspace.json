@@ -50,6 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "readme.md",
+<<<<<<< HEAD
                 "mode": "source",
                 "source": false
               }
@@ -74,6 +75,8 @@
               "type": "markdown",
               "state": {
                 "file": "Untitled.md",
+=======
+>>>>>>> 7e72847 (vault backup: 2024-02-27 17:25:03)
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "readme.md"
               }
             }
           }
@@ -209,7 +212,10 @@
   },
   "active": "8c5394d2e1ff4165",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "conflict-files-obsidian-git.md",
+=======
+>>>>>>> 7e72847 (vault backup: 2024-02-27 17:25:03)
     "Untitled.md",
     "readme.md",
     "информатика/информатика.md",
