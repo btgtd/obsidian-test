@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f58bba09ed76c76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "readme.md"
               }
             }
           }
@@ -160,14 +148,14 @@
   },
   "active": "d1225816f483a385",
   "lastOpenFiles": [
+    "Untitled.md",
+    "readme.md",
     "алгебра/2024_02_13.md",
     "conflict-files-obsidian-git.md",
     "информатика/информатика.md",
     "информатика",
     "алгебра/линейная алгебра 13 февраля первое занятие.docx",
     "алгебра",
-    "Untitled.md",
-    "readme.md",
     "создам страницу с первого компьютера.md",
     "попытка со второго компьютера.md",
     "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
