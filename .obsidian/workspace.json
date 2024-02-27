@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd29c1ad674e28e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "второй тест на оригинальном компьютере.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08a52c82d4200296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df1faa409441309f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6719fea0470e9b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -195,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6719fea0470e9b96",
+  "active": "785abfbf0ed5def1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "второй тест на оригинальном компьютере.md",
     "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
-    "readme.md"
+    "readme.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
