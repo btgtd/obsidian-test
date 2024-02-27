@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "попытка со второго компьютера.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "попытка со второго компьютера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "попытка со второго компьютера.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "попытка со второго компьютера.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "active": "cc7c73e94666b677",
   "lastOpenFiles": [
     "readme.md",
-    "Untitled.md",
+    "попытка со второго компьютера.md",
     "второй тест на оригинальном компьютере.md",
     "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
     "conflict-files-obsidian-git.md"
