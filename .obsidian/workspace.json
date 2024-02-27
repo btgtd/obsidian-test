@@ -11,11 +11,28 @@
             "id": "a576b1cb2b96a4f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "попытка со второго компьютера.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adf3e06d9f699684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "создам страницу с первого компьютера.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "создам страницу с первого компьютера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "создам страницу с первого компьютера.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "создам страницу с первого компьютера.md"
+              }
             }
           }
         ]
@@ -138,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a576b1cb2b96a4f8",
+  "active": "adf3e06d9f699684",
   "lastOpenFiles": [
+    "попытка со второго компьютера.md",
+    "создам страницу с первого компьютера.md",
+    "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
     "conflict-files-obsidian-git.md",
     "второй тест на оригинальном компьютере.md",
-    "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
     "readme.md"
   ]
 }
