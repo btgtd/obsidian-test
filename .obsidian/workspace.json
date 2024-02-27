@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fdffd55d100f1b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9b477880a33d22e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -171,11 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3826559e277b3e4",
+  "active": "b9b477880a33d22e",
   "lastOpenFiles": [
-    "readme.md",
     "Untitled.md",
     "conflict-files-obsidian-git.md",
+    "readme.md",
     "информатика/информатика.md",
     "информатика",
     "линейная алгебра/линейная алгебра 13 февраля первое занятие.docx",
