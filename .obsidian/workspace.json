@@ -59,8 +59,12 @@
             "id": "9395dfd537d82d81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "алгебра/2024_02_13.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "алгебра/2024_02_13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "алгебра/2024_02_13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "алгебра/2024_02_13.md"
+              }
             }
           }
         ]
