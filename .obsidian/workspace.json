@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "readme.md"
               }
             }
           }
@@ -157,15 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "537e4ab27122ab64",
+  "active": "08a52c82d4200296",
   "lastOpenFiles": [
+    "Untitled.md",
     "алгебра",
     "физика",
     "тервер",
     "англем",
     "матан",
     "readme.md",
-    "Untitled.md",
     "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
     "попытка со второго компьютера.md",
     "создам страницу с первого компьютера.md",
