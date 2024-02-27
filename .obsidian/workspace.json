@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57e2f3da26fd4804",
+        "id": "c1f10bf0bd06661f",
         "type": "tabs",
         "children": [
           {
-            "id": "785abfbf0ed5def1",
+            "id": "d1225816f483a385",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,7 @@
             }
           },
           {
-            "id": "08a52c82d4200296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44db7a144739ecc4",
+            "id": "76ab0b3094fdcfdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0890b75d0dc172e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "информатика/информатика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "информатика/информатика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "информатика/информатика.md"
               }
             }
           }
@@ -183,26 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0890b75d0dc172e4",
+  "active": "76ab0b3094fdcfdb",
   "lastOpenFiles": [
-    "Untitled.md",
+    "conflict-files-obsidian-git.md",
     "информатика/информатика.md",
-    "алгебра/2024_02_13.md",
+    "readme.md",
+    "информатика",
     "линейная алгебра/линейная алгебра 13 февраля первое занятие.docx",
     "линейная алгебра/2024_02_13.md",
     "линейная алгебра",
-    "алгебра/линейная алгебра 13 февраля первое занятие.docx",
-    "readme.md",
-    "информатика",
-    "алгебра",
-    "физика",
-    "тервер",
-    "англем",
-    "матан",
-    "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
-    "попытка со второго компьютера.md",
+    "Untitled.md",
     "создам страницу с первого компьютера.md",
-    "второй тест на оригинальном компьютере.md",
-    "conflict-files-obsidian-git.md"
+    "попытка со второго компьютера.md",
+    "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
+    "второй тест на оригинальном компьютере.md"
   ]
 }
