@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44db7a144739ecc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "информатика/информатика.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "информатика/информатика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "информатика/информатика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "информатика/информатика.md"
               }
             }
           }
@@ -159,15 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08a52c82d4200296",
+  "active": "537e4ab27122ab64",
   "lastOpenFiles": [
-    "Untitled.md",
+    "алгебра/линейная алгебра 13 февраля первое занятие.docx",
+    "readme.md",
+    "информатика/информатика.md",
+    "информатика",
     "алгебра",
     "физика",
     "тервер",
     "англем",
     "матан",
-    "readme.md",
     "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
     "попытка со второго компьютера.md",
     "создам страницу с первого компьютера.md",
