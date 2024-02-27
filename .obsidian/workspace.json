@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "второй тест на оригинальном компьютере.md",
+                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "второй тест на оригинальном компьютере.md",
+                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "второй тест на оригинальном компьютере.md",
+                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "второй тест на оригинальном компьютере.md"
+                "file": "здесь я напишу еще что нибудь что должно появиться на лаптопе.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "08a52c82d4200296",
   "lastOpenFiles": [
-    "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
-    "conflict-files-obsidian-git.md",
     "второй тест на оригинальном компьютере.md",
-    "readme.md"
+    "readme.md",
+    "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
