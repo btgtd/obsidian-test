@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cc7c73e94666b677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "создам страницу с первого компьютера.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "создам страницу с первого компьютера.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "создам страницу с первого компьютера.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "создам страницу с первого компьютера.md"
+                "file": "readme.md"
               }
             }
           }
@@ -171,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc7c73e94666b677",
+  "active": "08a52c82d4200296",
   "lastOpenFiles": [
-    "попытка со второго компьютера.md",
-    "создам страницу с первого компьютера.md",
     "здесь я напишу еще что нибудь что должно появиться на лаптопе.md",
     "readme.md",
+    "попытка со второго компьютера.md",
+    "создам страницу с первого компьютера.md",
     "второй тест на оригинальном компьютере.md",
     "conflict-files-obsidian-git.md"
   ]
