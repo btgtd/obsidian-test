@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "линейные пространства(линал 27.02.2024).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "линейные пространства(линал 27.02.2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "линейные пространства(линал 27.02.2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "линейные пространства(линал 27.02.2024).md"
               }
             }
           }
@@ -173,10 +173,10 @@
   },
   "active": "d3826559e277b3e4",
   "lastOpenFiles": [
+    "readme.md",
     "Untitled.md",
     "линейные пространства(линал 27.02.2024).md",
     "conflict-files-obsidian-git.md",
-    "readme.md",
     "информатика/информатика.md",
     "информатика",
     "линейная алгебра/линейная алгебра 13 февраля первое занятие.docx",
