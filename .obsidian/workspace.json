@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27.02.2024 линал.md",
+                "file": "информатика/справка по фортрану.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "27.02.2024 линал.md",
+                "file": "информатика/справка по фортрану.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "27.02.2024 линал.md",
+                "file": "информатика/справка по фортрану.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "27.02.2024 линал.md"
+                "file": "информатика/справка по фортрану.md"
               }
             }
           }
@@ -173,9 +173,10 @@
   },
   "active": "d3826559e277b3e4",
   "lastOpenFiles": [
-    "линейная алгебра/2024_02_13.md",
     "информатика/информатика.md",
+    "информатика/справка по фортрану.md",
     "27.02.2024 линал.md",
+    "линейная алгебра/2024_02_13.md",
     "матан/2024_02_26 матан.md",
     "readme.md",
     "Untitled.md",
